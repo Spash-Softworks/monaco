@@ -14,7 +14,6 @@
   <img src="https://img.shields.io/github/languages/code-size/Spash-Softworks/monaco?logo=github&labelColor=000000&logoColor=pink&color=000000&style=for-the-badge" alt="Code size">
   <br/>
   <img src="https://img.shields.io/github/stars/Spash-Softworks/monaco?logo=github&logoColor=pink&labelColor=000000&color=000000&style=for-the-badge" alt="GitHub stars">
-  <br/>
   <a href="https://dsc.gg/spashapi"><img src="https://img.shields.io/badge/Discord-%23000000.svg?style=for-the-badge&logo=discord&logoColor=pink" alt="Discord"></a>
 </p>
 <br/>
